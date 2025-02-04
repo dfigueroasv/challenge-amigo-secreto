@@ -48,7 +48,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 <div align="center">
 
-![Muestra de funcionamiento de Juego](https://github.com/user-attachments/assets/030ab299-4aa3-4eee-8871-2cb50bc1421c)
+https://github.com/user-attachments/assets/030ab299-4aa3-4eee-8871-2cb50bc1421c
 
 </div>
 
