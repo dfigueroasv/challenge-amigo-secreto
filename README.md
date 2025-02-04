@@ -11,9 +11,7 @@ Implementación del challenge amigo secreto en Alura Latam
 
 - [Funcionalidades](#Funcionalidades)
 
-- [Aplicaçion](#Aplicacion)
-
-- [Herramtentas utilizadas](#Herramientas-Utilizadas)
+- [Aplicacion](#Aplicacion)
 
 - [Acesso al proyecto](#Acesso-al-Proyecto)
 
@@ -52,3 +50,6 @@ https://github.com/user-attachments/assets/030ab299-4aa3-4eee-8871-2cb50bc1421c
 
 </div>
 
+## Acesso al Proyecto
+
+Da click en el siguiente Link: [acceder a la pagina web del proyecto](https://dfigueroasv.github.io/challenge-amigo-secreto/)
