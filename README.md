@@ -15,8 +15,6 @@ Implementación del challenge amigo secreto en Alura Latam
 
 - [Acesso al proyecto](#Acesso-al-Proyecto)
 
-- [Abrir y ejecutar el proyeto](#Abrir-y-ejecutar-el-Proyecto)
-
 - [Desarrolladores](#Deserrolladores)
 
 ## Descripcion del Proyecto
@@ -53,3 +51,8 @@ https://github.com/user-attachments/assets/030ab299-4aa3-4eee-8871-2cb50bc1421c
 ## Acesso al Proyecto
 
 Da click en el siguiente Link: [acceder a la pagina web del proyecto](https://dfigueroasv.github.io/challenge-amigo-secreto/)
+
+## Deserrolladores
+
+| [<img src="https://avatars.githubusercontent.com/u/194460827?v=4)" width=115><br><sub>Douglas Omar Figueroa Merino</sub>](https://github.com/dfigueroasv) |
+| :---: |
