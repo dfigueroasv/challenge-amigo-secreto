@@ -11,7 +11,7 @@ Implementación del challenge amigo secreto en Alura Latam
 
 - [Funcionalidades](#Funcionalidades)
 
-- [Aplicaçion](#Aplicaçion)
+- [Aplicaçion](#Aplicacion)
 
 - [Herramtentas utilizadas](#Herramientas-Utilizadas)
 
@@ -39,5 +39,16 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 :heavy_check_mark: `Funcionalidade 4:` Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página, dejando en la lista solo el nombre del amigo sorteado.
 
+
+
+
 :heavy_check_mark: `Funcionalidade 5:` Resetear Juego: Se debera hacer click en la actualizacion de la pagina web.
+
+## Aplicacion
+
+<div align="center">
+
+![Muestra de funcionamiento de Juego](https://github.com/user-attachments/assets/030ab299-4aa3-4eee-8871-2cb50bc1421c)
+
+</div>
 
