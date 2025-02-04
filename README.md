@@ -7,19 +7,19 @@ Implementación del challenge amigo secreto en Alura Latam
 
 ### Tópicos 
 
-- [Descripcion del Proyecto](#descripcion-del-proyecto)
+- [Descripcion del Proyecto](#Descripcion-del-Proyecto)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#Funcionalidades)
 
-- [Aplicaçion](#aplicaçion)
+- [Aplicaçion](#Aplicaçion)
 
-- [Herramtentas utilizadas](#herramientas-utilizadas)
+- [Herramtentas utilizadas](#Herramientas-Utilizadas)
 
-- [Acesso al proyecto](#acesso-al-proyeto)
+- [Acesso al proyecto](#Acesso-al-Proyecto)
 
-- [Abrir y ejecutar el proyeto](#abrir-y-ejecutar-el-proyecto)
+- [Abrir y ejecutar el proyeto](#Abrir-y-ejecutar-el-Proyecto)
 
-- [Desarrolladores](#deserrolladores)
+- [Desarrolladores](#Deserrolladores)
 
 Descripcion del Proyecto
 <p align="justify">
