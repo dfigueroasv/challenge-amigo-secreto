@@ -21,7 +21,8 @@ Implementación del challenge amigo secreto en Alura Latam
 
 - [Desarrolladores](#Deserrolladores)
 
-Descripcion del Proyecto
+## Descripcion del Proyecto
+
 <p align="justify">
 En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
